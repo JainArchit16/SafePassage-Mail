@@ -75,7 +75,7 @@ exports.courseEnrollmentEmail = (
   <body>
       <div class="container">
           <a href="#"><img class="logo"
-                  src="https://firebasestorage.googleapis.com/v0/b/safepassage-15b24.appspot.com/o/logo-modified.png?alt=media&token=4c598b1e-5934-4a47-9bfb-87a19ae96f3a" alt="Company Logo"></a>
+                  src="https://firebasestorage.googleapis.com/v0/b/safepassage-92dde.appspot.com/o/logo-modified.png?alt=media&token=0f60a112-4bfd-4588-bcdd-08f820eb5347" alt="Company Logo"></a>
           <div class="message">Car Accident Notification</div>
           <div class="body">
               <p>Dear Reciever,</p>
